@@ -8,7 +8,7 @@ An Excel project analyzing a collection of global perfume brands from a fictitio
 - Project Objectives 
 - Expected Outcome 
 - Document Purpose  
-- Data Source 
+- [Data Source](https://www.kaggle.com/datasets/ayushghawana/perfume-dataset) 
 - Data Cleaning and Processing 
 - Data Analysis 
 - Data Visualization 
@@ -56,15 +56,22 @@ Having a clean data for analysis is essential because it ensures that the insigh
 After thoroughly checking the data for quality and suitability, including looking for errors, inconsistencies, missing values, and duplicates, I found that the dataset is well-organized except that the dataset had 63 duplicates, the perfume Type column and Target_audience column were inconsistent, and I had to replace first row as column heads which appeared twice in the data. 
 
 **Additional Data Processing Steps:**
-1.	Type Column:
+
+**1.  Type Column:**
+
 After filtering the type column had Eau de Parfum (EDP), Eau de Toilette (EDT), Extrait de Parfum, Concentrate, Extrait, Parfum, Cologne, Alcohol-free, Attar, and oil. 
+
 After extensive research it was known that Alcohol-free and oil perfume where also called Attar perfumes, Cologne was known as Eau de Cologne (EDC), Extrait was same as Extrait de Parfum having 20 – 40% concentration and Concentrate which also refers to the highest concentration fragrance oil typically between 20-40% in product like Extrait de Parfum was also known to have the same percentage concentration of Parfum. 
+
 Putting together all the information gathered Ctrl + F button was used after filter was applied to the dataset. To do that, click on Data in the tool-bar and click on filter. On the Type column click on the arrow filter to filter for every value that needed to be corrected by a single click at the top of the column head follow by using the Ctrl + F button to find and replace the values for correction for each filtered value.
 
-2.	Target Audience: 
+  **2.	Target Audience:** 
+
 The same method was applied in the target audience column to make it consistent and error free. 
-I.	Filter: click on Data in the tool-bar, then click on filter. It was found that the column had values consisting Men, Women, Male, Female, and Unisex. 
-II.	Ctrl + F: This is applied by a single click on top of the target_audience to highlight the column after which the ctrl f button is used to find and replace the inconsistent values. So, wherever we find Men it will be replace with Male, and wherever find Women it will be replace with Female.
+
+  I.	Filter: click on Data in the tool-bar, then click on filter. It was found that the column had values consisting Men, Women, Male, Female, and Unisex. 
+
+  II.	Ctrl + F: This is applied by a single click on top of the target_audience to highlight the column after which the ctrl f button is used to find and replace the inconsistent values. So, wherever we find Men it will be replace with Male, and wherever find Women it will be replace with Female.
 
 
 ### Data Analysis and Insight 
