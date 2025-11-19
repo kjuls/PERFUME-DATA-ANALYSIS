@@ -151,3 +151,17 @@ II.	Are certain types more popular among male?
 The aim of the question above is to identify the popular perfume types among the male category only.
 
 The type column was placed in the row section, target_audience column was placed in the columns section, and perfume was placed in the values section to count the number of perfumes. In the column label, only male was filtered as the target_audience. The results were visualized using a horizontal bar chart.
+
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Popular%20Perfume%20Type%20Among%20Males.png)
+
+From the analysis above 
+- EDP has the highest popularity by type among men with 208 in number.
+- In second place is EDT.
+- PARFUM has the least popular perfume type among men.
+
+III.	Is certain perfume type more popular within the unisex section in target_audience?
+
+The aim of the question above is to identify popular perfume type within unisex category only.
+
+The type column was placed in the row section, target_audience column was placed in the columns section, and perfume was placed in the values section to count the number of perfumes. In the column label, only unisex was filtered as the target_audience. The results were visualized using a horizontal bar chart.
+
