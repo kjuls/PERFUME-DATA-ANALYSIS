@@ -165,3 +165,19 @@ The aim of the question above is to identify popular perfume type within unisex 
 
 The type column was placed in the row section, target_audience column was placed in the columns section, and perfume was placed in the values section to count the number of perfumes. In the column label, only unisex was filtered as the target_audience. The results were visualized using a horizontal bar chart.
 
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Popular%20Perfume%20Type%20Among%20Both%20Male%20And%20Female.png)
+
+From the analysis above
+- All five (5) perfume type are present in the unisex category only.
+- EDP has the highest perfume type in the unisex category with a total of 311.
+- EDT with a total of 26 perfume type.
+- Parfum has 25 perfume type.
+- Attar, and EDC are the bottom perfume type in the unisex category.
+
+
+6.	What is the percentage % perfume by target_audience?
+
+The question above gives us details on the number of percentage perfume by the target_audience.
+
+The target_audience column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. In the values field settings when click on the drop-down arrow of count perfume in values, click on show values as % of column total to display values in %. 
+
