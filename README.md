@@ -134,6 +134,20 @@ The aim of this question is to evaluate how long each type typically lasts, and 
 The question aims to deliver more insight on the level of popularity among male, female, and unisex. 
 
 I.	What perfume types are more popular among females?
+
 The aim of the question above is to identify the most and least popular perfume type among the females.
 
 The Type column was placed in the row section, target_audience column was placed in the columns section, and perfume was placed in the values section to count the number of perfumes. In the column label, only female was filtered as the target_audience. The results were visualized using a horizontal bar chart.
+
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Popular%20Perfume%20Type%20Among%20Females.png)
+
+From the above analysis 
+- Only Parfum, EDT, EDP, and EDC is known within the females alone.
+- EDP has the most popular perfume type among the females with a total of 221.
+- EDC is the least popular perfume type among the female category.
+
+II.	Are certain types more popular among male? 
+
+The aim of the question above is to identify the popular perfume types among the male category only.
+
+The type column was placed in the row section, target_audience column was placed in the columns section, and perfume was placed in the values section to count the number of perfumes. In the column label, only male was filtered as the target_audience. The results were visualized using a horizontal bar chart.
