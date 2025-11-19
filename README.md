@@ -79,7 +79,7 @@ Firstly, it seeks to know the total perfume by brand. Secondly, to know the tota
 
 Key benefits include, Performance Insights: identify top-performing brands, Product Mix Understanding: Understand consumer preference trends, guide new product development, Longevity Insights: Evaluates how long each type typically lasts, Visual Decision Support.
 
-1.	What is the Total Perfume by Brand?
+#### 1.	What is the Total Perfume by Brand?
 
 The primary objective of this analysis is to determine the total number of perfume’s made available by each brand and the total number of brands in the dataset. To achieve this, a pivot table was created. The brand column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a bar chart.
 
@@ -90,7 +90,7 @@ From the above analysis
 - Armaf brand has the second highest number of perfumes.
 - There are 51 brands in total. 
 
-2.	What is the total perfume distribution by type? 
+#### 2.	What is the total perfume distribution by type? 
 
 The primary aim of this question is to identify the total perfume distributed using the type method and to also find out which type had the highest distribution. 
 To achieve this, a pivot table was created. The Type column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a horizontal bar chart. 
@@ -103,7 +103,7 @@ From the above analysis
 - PARFUM has a total of 60 perfume distribution coming third.
 - EDC has 10 perfume distribution, and Attar coming last with a total of 7 perfume distribution.
 
-3.	Which fragrance families dominate?
+#### 3.	Which fragrance families dominate?
 
 The question aims to understand the popularity and dominance of perfume in different category. By identifying top dominating fragrance and those driving more revenues, so the business can make informed decisions about inventory management, marketing strategies, and potentially introduce promotions or adjustments to product offerings.
 
@@ -116,7 +116,7 @@ From the above analysis
 - Floriental has a total of 119 fragrance family and the second dominating family.
 - The analysis show that 38 fragrance families are not known to any category of perfumes and as such remains unknown.
 
-4.	How long each type typically lasts?
+#### 4.	How long each type typically lasts?
 
 The aim of this question is to evaluate how long each type typically lasts, and identify gaps in product quality. To achieve this, a pivot table was created. Type column was placed in the row section, Longevity column was placed in the columns section as column labels, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a stacked column chart.
 
@@ -129,11 +129,11 @@ The aim of this question is to evaluate how long each type typically lasts, and 
 - Attar known as an oil base perfume has 7 strong perfumes by type in level of concentration.
 
 
-5.	What are the types of perfume more popular among the target audience?
+#### 5.	What are the types of perfume more popular among the target audience?
 
 The question aims to deliver more insight on the level of popularity among male, female, and unisex. 
 
-I.	What perfume types are more popular among females?
+**I.	What perfume types are more popular among females?**
 
 The aim of the question above is to identify the most and least popular perfume type among the females.
 
@@ -146,7 +146,7 @@ From the above analysis
 - EDP has the most popular perfume type among the females with a total of 221.
 - EDC is the least popular perfume type among the female category.
 
-II.	Are certain types more popular among male? 
+**II.	Are certain types more popular among male?**
 
 The aim of the question above is to identify the popular perfume types among the male category only.
 
@@ -159,7 +159,7 @@ From the analysis above
 - In second place is EDT.
 - PARFUM has the least popular perfume type among men.
 
-III.	Is certain perfume type more popular within the unisex section in target_audience?
+**III.	Is certain perfume type more popular within the unisex section in target_audience?**
 
 The aim of the question above is to identify popular perfume type within unisex category only.
 
@@ -175,7 +175,7 @@ From the analysis above
 - Attar, and EDC are the bottom perfume type in the unisex category.
 
 
-6.	What is the percentage % perfume by target_audience?
+#### 6.	What is the percentage % perfume by target_audience?
 
 The question above gives us details on the number of percentage perfume by the target_audience.
 
@@ -187,3 +187,31 @@ The analysis above clearly shows that female has a total of 29%, male has a tota
 
 
 ### Data Visualization
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Perfume%20Data%20Analysis%20Dashboard%20.png)
+
+
+### Recommendation 
+Based on the provided analysis, here are several recommendations for Perfume Data Analysis:
+- Prioritize top-performing brands with the highest number of perfume listings.
+- Evaluate brands with very low representation for possible expansion or removal.
+- Strengthen partnerships and marketing for brands with high customer engagement.
+- Rationalize slow-performing brand lines to optimize shelf space and inventory cost.
+- Make Eau de parfum (EDP) the core product focus.
+- Ensure consistent stock availability of EDT as a secondary but essential segment.
+- Expand Parfum options slowly, especially for premium customers seeking high longevity.
+- Minimize overstocking of EDC and Attar due to low demand in the dataset.
+- Promote EDP to both male and female audiences as it shows the highest acceptance.
+- Use EDT as an alternative option for budget-friendly or casual-wear customers.
+- Highlight EDP and strong-long-lasting perfumes in marketing as they dominate longevity performance.
+- Position EDT as a lighter, everyday option with moderate projection.
+- Increase investment in the top 3-4 fragrance families.
+- Promote unisex fragrances as versatile, modern options for everyday use.
+- Ensure each target group has a well-distributed selection across core perfume types.
+
+### Conclusion 
+
+Use data-driven insights to guide inventory planning, enhance operational efficiency, increase revenue, and improve promotional campaigns. 
+
+Thank you for reading. I’m interested in Analytics role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
+
+You can reach me on juliusokolawole@gmail.com
