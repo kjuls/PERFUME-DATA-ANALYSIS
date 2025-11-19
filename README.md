@@ -55,23 +55,21 @@ Having a clean data for analysis is essential because it ensures that the insigh
 
 After thoroughly checking the data for quality and suitability, including looking for errors, inconsistencies, missing values, and duplicates, I found that the dataset is well-organized except that the dataset had 63 duplicates, the perfume Type column and Target_audience column were inconsistent, and I had to replace first row as column heads which appeared twice in the data. 
 
-**Additional Data Processing Steps:**
 
-#### 1. Type Column:
+**Additional Data Processing Steps:**
+1.	Type Column:
 
 After filtering the type column had Eau de Parfum (EDP), Eau de Toilette (EDT), Extrait de Parfum, Concentrate, Extrait, Parfum, Cologne, Alcohol-free, Attar, and oil. 
-
 After extensive research it was known that Alcohol-free and oil perfume where also called Attar perfumes, Cologne was known as Eau de Cologne (EDC), Extrait was same as Extrait de Parfum having 20 – 40% concentration and Concentrate which also refers to the highest concentration fragrance oil typically between 20-40% in product like Extrait de Parfum was also known to have the same percentage concentration of Parfum. 
-
 Putting together all the information gathered Ctrl + F button was used after filter was applied to the dataset. To do that, click on Data in the tool-bar and click on filter. On the Type column click on the arrow filter to filter for every value that needed to be corrected by a single click at the top of the column head follow by using the Ctrl + F button to find and replace the values for correction for each filtered value.
 
-  **2.	Target Audience:** 
+2.	Target Audience: 
 
 The same method was applied in the target audience column to make it consistent and error free. 
 
-  I.	Filter: click on Data in the tool-bar, then click on filter. It was found that the column had values consisting Men, Women, Male, Female, and Unisex. 
+**I.	Filter:** click on Data in the tool-bar, then click on filter. It was found that the column had values consisting Men, Women, Male, Female, and Unisex. 
 
-  II.	Ctrl + F: This is applied by a single click on top of the target_audience to highlight the column after which the ctrl f button is used to find and replace the inconsistent values. So, wherever we find Men it will be replace with Male, and wherever find Women it will be replace with Female.
+**II.	Ctrl + F:** This is applied by a single click on top of the target_audience to highlight the column after which the ctrl f button is used to find and replace the inconsistent values. So, wherever we find Men it will be replace with Male, and wherever find Women it will be replace with Female. 
 
 
 ### Data Analysis and Insight 
@@ -81,7 +79,18 @@ Firstly, it seeks to know the total perfume by brand. Secondly, to know the tota
 
 Key benefits include, Performance Insights: identify top-performing brands, Product Mix Understanding: Understand consumer preference trends, guide new product development, Longevity Insights: Evaluates how long each type typically lasts, Visual Decision Support.
 
-1.	What is the Total Perfume by Brand? 
+1.	What is the Total Perfume by Brand?
 
 The primary objective of this analysis is to determine the total number of perfume’s made available by each brand and the total number of brands in the dataset. To achieve this, a pivot table was created. The brand column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a bar chart.
 
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Total%20Perfumes%20by%20brand.png)
+
+From the above analysis 
+- Paris corner brand has the highest number of perfumes.
+- Armaf brand has the second highest number of perfumes.
+- There are 51 brands in total. 
+
+2.	What is the total perfume distribution by type? 
+
+The primary aim of this question is to identify the total perfume distributed using the type method and to also find out which type had the highest distribution. 
+To achieve this, a pivot table was created. The Type column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a horizontal bar chart. 
