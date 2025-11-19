@@ -57,7 +57,7 @@ After thoroughly checking the data for quality and suitability, including lookin
 
 **Additional Data Processing Steps:**
 
-**1.  Type Column:**
+#### 1. Type Column:
 
 After filtering the type column had Eau de Parfum (EDP), Eau de Toilette (EDT), Extrait de Parfum, Concentrate, Extrait, Parfum, Cologne, Alcohol-free, Attar, and oil. 
 
@@ -80,4 +80,8 @@ The primary aim of this analysis is to derive valuable insights from Perfume Dat
 Firstly, it seeks to know the total perfume by brand. Secondly, to know the total perfume distribution by type. Thirdly, the analysis aims to identify the top fragrance families. Furthermore, a detailed investigation into the popularity of perfumes between the target audience using a cross-analysis and the longevity & quality insights of each perfume by type. Lastly, to know the percentage perfume by target audience.
 
 Key benefits include, Performance Insights: identify top-performing brands, Product Mix Understanding: Understand consumer preference trends, guide new product development, Longevity Insights: Evaluates how long each type typically lasts, Visual Decision Support.
+
+1.	What is the Total Perfume by Brand? 
+
+The primary objective of this analysis is to determine the total number of perfume’s made available by each brand and the total number of brands in the dataset. To achieve this, a pivot table was created. The brand column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a bar chart.
 
