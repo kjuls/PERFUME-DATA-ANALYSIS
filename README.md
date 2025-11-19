@@ -109,3 +109,13 @@ The question aims to understand the popularity and dominance of perfume in diffe
 
 To achieve this, a pivot table was created. The Category column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a horizontal bar chart. 
 
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Top%208%20fragrance%20families.png)
+
+From the above analysis 
+- Woody spicy has the largest number of fragrance family and top dominating family.
+- Floriental has a total of 119 fragrance family and the second dominating family.
+- The analysis show that 38 fragrance families are not known to any category of perfumes and as such remains unknown.
+
+4.	How long each type typically lasts?
+The aim of this question is to evaluate how long each type typically lasts, and identify gaps in product quality. To achieve this, a pivot table was created. Type column was placed in the row section, Longevity column was placed in the columns section as column labels, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a stacked column chart.
+
