@@ -94,3 +94,18 @@ From the above analysis
 
 The primary aim of this question is to identify the total perfume distributed using the type method and to also find out which type had the highest distribution. 
 To achieve this, a pivot table was created. The Type column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a horizontal bar chart. 
+
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Total%20distribution%20by%20Type.png)
+
+From the above analysis 
+- EDP has the highest number of perfume distribution with a total of 740.
+- EDT has the second highest number of perfume distribution with a total of 123.
+- PARFUM has a total of 60 perfume distribution coming third.
+- EDC has 10 perfume distribution, and Attar coming last with a total of 7 perfume distribution.
+
+3.	Which fragrance families dominate?
+
+The question aims to understand the popularity and dominance of perfume in different category. By identifying top dominating fragrance and those driving more revenues, so the business can make informed decisions about inventory management, marketing strategies, and potentially introduce promotions or adjustments to product offerings.
+
+To achieve this, a pivot table was created. The Category column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a horizontal bar chart. 
+
