@@ -117,5 +117,23 @@ From the above analysis
 - The analysis show that 38 fragrance families are not known to any category of perfumes and as such remains unknown.
 
 4.	How long each type typically lasts?
+
 The aim of this question is to evaluate how long each type typically lasts, and identify gaps in product quality. To achieve this, a pivot table was created. Type column was placed in the row section, Longevity column was placed in the columns section as column labels, and perfume was placed in the values section to count the number of perfumes. The results were visualized using a stacked column chart.
 
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/Longevity%20by%20Type.png)
+
+- EDP has levels of concentration that consist of 6 very strong, 271 strong, 445 medium, and 18 light perfumes by type.
+- EDT has levels of concentration that consist of 6 strong, 84 medium, and 33 light perfumes by type.
+- Parfum has levels of concentration consisting 23 very strong, 33 strong, and 4 medium perfumes by type.
+- EDC has just 10 medium perfumes in level of longevity.
+- Attar known as an oil base perfume has 7 strong perfumes by type in level of concentration.
+
+
+5.	What are the types of perfume more popular among the target audience?
+
+The question aims to deliver more insight on the level of popularity among male, female, and unisex. 
+
+I.	What perfume types are more popular among females?
+The aim of the question above is to identify the most and least popular perfume type among the females.
+
+The Type column was placed in the row section, target_audience column was placed in the columns section, and perfume was placed in the values section to count the number of perfumes. In the column label, only female was filtered as the target_audience. The results were visualized using a horizontal bar chart.
