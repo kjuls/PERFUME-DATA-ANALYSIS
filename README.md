@@ -181,3 +181,9 @@ The question above gives us details on the number of percentage perfume by the t
 
 The target_audience column was placed in the row section, and perfume was placed in the values section to count the number of perfumes. In the values field settings when click on the drop-down arrow of count perfume in values, click on show values as % of column total to display values in %. 
 
+![](https://github.com/kjuls/PERFUME-DATA-ANALYSIS/blob/main/%25%20Perfume%20By%20Target%20Aduience.png)
+
+The analysis above clearly shows that female has a total of 29%, male has a total of 31%, and unisex with the highest percentage number of 40%.
+
+
+### Data Visualization
