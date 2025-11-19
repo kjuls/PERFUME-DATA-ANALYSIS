@@ -67,9 +67,9 @@ Putting together all the information gathered Ctrl + F button was used after fil
 
 The same method was applied in the target audience column to make it consistent and error free. 
 
-**I.	Filter:** click on Data in the tool-bar, then click on filter. It was found that the column had values consisting Men, Women, Male, Female, and Unisex. 
+- Filter: click on Data in the tool-bar, then click on filter. It was found that the column had values consisting Men, Women, Male, Female, and Unisex. 
 
-**II.	Ctrl + F:** This is applied by a single click on top of the target_audience to highlight the column after which the ctrl f button is used to find and replace the inconsistent values. So, wherever we find Men it will be replace with Male, and wherever find Women it will be replace with Female. 
+- Ctrl + F: This is applied by a single click on top of the target_audience to highlight the column after which the ctrl f button is used to find and replace the inconsistent values. So, wherever we find Men it will be replace with Male, and wherever find Women it will be replace with Female. 
 
 
 ### Data Analysis and Insight 
