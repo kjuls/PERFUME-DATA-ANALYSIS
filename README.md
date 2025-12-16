@@ -8,7 +8,7 @@ An Excel project analyzing a collection of global perfume brands from a fictitio
 - Project Objectives 
 - Expected Outcome 
 - Document Purpose  
-- [Data Source](https://www.kaggle.com/datasets/ayushghawana/perfume-dataset) 
+- Data Source
 - Data Cleaning and Processing 
 - Data Analysis 
 - Data Visualization 
